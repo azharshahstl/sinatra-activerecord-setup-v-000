@@ -7,7 +7,7 @@ gem 'require_all'
 gem 'activerecord', '4.2.5' 
 gem 'sinatra-activerecord' 
 gem 'rake' 
-gem 'require-all'
+gem 'require_all'
 
 
 group :development do
